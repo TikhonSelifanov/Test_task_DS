@@ -1,0 +1,35 @@
+{
+  "Model": "CatBoost + Business Rules",
+  "PR-AUC": 0.3043509334859395,
+  "ROC-AUC": 0.7197083961789844,
+  "Precision": 0.3404255319148936,
+  "Recall": 0.41025641025641024,
+  "F1": 0.37209302325581395,
+  "Threshold": 0.3595726349292585,
+  "AutoRejectCount": 4,
+  "AutoRejectPct": 1.1594202898550725,
+  "BusinessRules": {
+    "payment_to_income_threshold": 0.5,
+    "credit_to_income_threshold": 10.0
+  },
+  "CV_PR_AUC": 0.34250117695424637,
+  "BestParams": {
+    "iterations": 808,
+    "depth": 2,
+    "learning_rate": 0.017360281175994446,
+    "l2_leaf_reg": 0.2932718436782875,
+    "border_count": 98,
+    "subsample": 0.841033408079787,
+    "scale_pos_weight": 1.6279938448069222
+  },
+  "ConfusionMatrix": [
+    [
+      275,
+      31
+    ],
+    [
+      23,
+      16
+    ]
+  ]
+}

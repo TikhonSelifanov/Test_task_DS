@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Тип товара",
+    "importance": 0.572486433486188
+  },
+  {
+    "feature": "Срок кредита",
+    "importance": 0.21468217388256877
+  },
+  {
+    "feature": "low_education",
+    "importance": 0.20842110020639967
+  },
+  {
+    "feature": "credit_x_term",
+    "importance": 0.19590787870953688
+  },
+  {
+    "feature": "Месяц выдачи кредита",
+    "importance": 0.17478836351576676
+  },
+  {
+    "feature": "income_x_age",
+    "importance": 0.17079077366368783
+  },
+  {
+    "feature": "income_per_age",
+    "importance": 0.1600124842694467
+  },
+  {
+    "feature": "credit_to_income",
+    "importance": 0.08867377959407496
+  },
+  {
+    "feature": "Является ли клиентом банка",
+    "importance": 0.08276384027224806
+  },
+  {
+    "feature": "Регион выдачи кредита",
+    "importance": 0.07795201878288363
+  },
+  {
+    "feature": "Пол клиента",
+    "importance": 0.06899145633716683
+  },
+  {
+    "feature": "is_bank_client",
+    "importance": 0.06806876713270445
+  },
+  {
+    "feature": "term_x_age",
+    "importance": 0.05637045972055653
+  },
+  {
+    "feature": "Возраст клиента",
+    "importance": 0.05617900825180382
+  },
+  {
+    "feature": "payment_to_income",
+    "importance": 0.052120436585930144
+  }
+]
