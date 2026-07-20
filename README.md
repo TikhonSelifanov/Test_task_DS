@@ -1,5 +1,5 @@
 # Модель предсказания дефолта по кредиту
-
+Streamlit - https://testtaskds-e9nmdhupwhdbhn5vycmklt.streamlit.app/
 ## Структура проекта
 
 - `data.xlsx` — исходные данные (1723 строки, 14 признаков)
